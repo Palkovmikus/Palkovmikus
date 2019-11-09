@@ -1,0 +1,51 @@
+h1.test {
+    margin-top: 16px;
+    color: green;
+  }
+  p.test {
+    color: #DDA0DD;
+    background-color: white;
+  }
+  h2.test {
+      margin-top: 16 px;
+      color: brown;
+  }
+  div h3 {
+      color: cadetblue;
+  }
+  p text >.second{
+#bold1
+color: #ff00ff;
+  }
+  
+input[type="text"] {
+    border-radius: 15px;
+    text-decoration: underline;
+  }
+  input[type="button"] {
+    background-color: #40E0D0;
+    align-self: center;
+  }
+  <input type="text" title="Your name" placeholder="Your name"/>
+        <input type="button" title="Next" value="Next"/>
+  * {
+    font-family: Times serif;
+    font-size: 98%;
+    text-decoration: overline;
+  }
+  a {
+    text-decoration: none;
+  }
+  div > a:active {
+    color:   #663399;
+    text-decoration: none;
+  }
+  div > a:visited {
+      color:   #008080;
+  }
+  a:hover {
+    background-color:   #008080;
+  }
+  a:focus {
+    background-color: red;
+  }
